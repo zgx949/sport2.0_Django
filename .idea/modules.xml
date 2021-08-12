@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../kaoshi/.idea/kaoshi.iml" filepath="$PROJECT_DIR$/../kaoshi/.idea/kaoshi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../pycharm/.idea/pycharm.iml" filepath="$PROJECT_DIR$/../../pycharm/.idea/pycharm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shopdata/.idea/shopdata.iml" filepath="$PROJECT_DIR$/../shopdata/.idea/shopdata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/sport.iml" filepath="$PROJECT_DIR$/.idea/sport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sportmeeting/.idea/sportmeeting.iml" filepath="$PROJECT_DIR$/../sportmeeting/.idea/sportmeeting.iml" />
+    </modules>
+  </component>
+</project>
